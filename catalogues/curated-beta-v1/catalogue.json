@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 43,
+  "version": 44,
   "packs": [
     {
       "id": "curated-forest",
@@ -873,6 +873,209 @@
       "reviewGaps": [
         "Desert Wind EQ is a review candidate, not listening-approved.",
         "Needs a second contrasting ambience; rejected tent flapping excluded."
+      ],
+      "beta": true
+    },
+    {
+      "id": "combat-actions",
+      "version": 1,
+      "name": "Combat Essentials",
+      "description": "Beta listening pack. Eight practical combat one-shots. Listening review pending.",
+      "bundled": false,
+      "published": true,
+      "tracks": [
+        {
+          "id": "combat-actions-sword-clash-v1",
+          "name": "Sword Clash",
+          "type": "effect",
+          "loop": false,
+          "duration": 0.5123958333333334,
+          "tags": [
+            "combat"
+          ],
+          "file": {
+            "path": "audio/combat-actions-sword-clash-v1.ogg",
+            "bytes": 10044,
+            "sha256": "3aea58d70e8cb28a02c7733f581b78970c0377a5356ccf00d41ab17aa66d7ffe"
+          },
+          "credits": {
+            "creator": "Vehicle",
+            "source": "sword-knife-clash-01.wav",
+            "sourceUrl": "https://opengameart.org/content/fantasy-weapons-and-apparel-sfx-library",
+            "license": "CC0-1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "changes": " Outer silence trim 0.019146\u20130.534208s; mono 48kHz; 45Hz high-pass; gain 0.5011; 1ms attack/10ms tail fade; Vorbis q6."
+          },
+          "listeningApproved": false
+        },
+        {
+          "id": "combat-actions-shield-block-v1",
+          "name": "Shield Block",
+          "type": "effect",
+          "loop": false,
+          "duration": 0.7543125,
+          "tags": [
+            "combat"
+          ],
+          "file": {
+            "path": "audio/combat-actions-shield-block-v1.ogg",
+            "bytes": 11366,
+            "sha256": "d868f6c34f9dbf8a611c962c974c0e710872a4534d4a033ac4ed17c53083fa28"
+          },
+          "credits": {
+            "creator": "marchelonia",
+            "source": "heavy sword against sword or shield \u2014 impact study",
+            "license": "CC0-1.0",
+            "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source steel-shield-impact-v2. One-shot selection 0.000s to 1.800s; 4ms attack and 120ms maximum tail fade. Outer silence trim 0.582708\u20131.339687s; mono 48kHz; 45Hz high-pass; gain 1.1295; 1ms attack/10ms tail fade; Vorbis q6.",
+            "sourceUrl": "https://freesound.org/people/marchelonia/sounds/588278/",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+          },
+          "listeningApproved": false
+        },
+        {
+          "id": "combat-actions-arrow-release-v1",
+          "name": "Arrow Release",
+          "type": "effect",
+          "loop": false,
+          "duration": 0.3446875,
+          "tags": [
+            "combat"
+          ],
+          "file": {
+            "path": "audio/combat-actions-arrow-release-v1.ogg",
+            "bytes": 7950,
+            "sha256": "a860cddd3e70f3ae4dec61bc7ce1b32776dab4af08a8e8bc49202d0d2a54afa2"
+          },
+          "credits": {
+            "creator": "saturdaysoundguy",
+            "source": "Arrow release \u00b7 revised",
+            "license": "CC0-1.0",
+            "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source steel-arrow-release-detail-v2. One-shot selection 0.000s to 0.528s; 4ms attack and 120ms maximum tail fade. Outer silence trim 0.037750\u20130.385104s; mono 48kHz; 45Hz high-pass; gain 0.9156; 1ms attack/10ms tail fade; Vorbis q6.",
+            "sourceUrl": "https://freesound.org/people/saturdaysoundguy/sounds/394178/",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+          },
+          "listeningApproved": false
+        },
+        {
+          "id": "combat-actions-arrow-impact-v1",
+          "name": "Arrow Impact",
+          "type": "effect",
+          "loop": false,
+          "duration": 0.25277083333333333,
+          "tags": [
+            "combat"
+          ],
+          "file": {
+            "path": "audio/combat-actions-arrow-impact-v1.ogg",
+            "bytes": 7523,
+            "sha256": "22c94b71f01069297283b5d660f0d80c4174898ddd7d761009ba13db14484924"
+          },
+          "credits": {
+            "creator": "omerbhatti34",
+            "source": "arrow-impact.mp3",
+            "sourceUrl": "https://freesound.org/people/omerbhatti34/sounds/521552/",
+            "license": "CC0-1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "changes": " Outer silence trim 0.000000\u20130.255437s; mono 48kHz; 45Hz high-pass; gain 2.0663; 1ms attack/10ms tail fade; Vorbis q6."
+          },
+          "listeningApproved": false
+        },
+        {
+          "id": "combat-actions-punch-v1",
+          "name": "Punch",
+          "type": "effect",
+          "loop": false,
+          "duration": 0.6731458333333333,
+          "tags": [
+            "combat"
+          ],
+          "file": {
+            "path": "audio/combat-actions-punch-v1.ogg",
+            "bytes": 13049,
+            "sha256": "10deb2d09bfc2ec164264dc062a736bbddf7f6935b229a0332ea4c2d4ecdf53d"
+          },
+          "credits": {
+            "creator": "johnfolker",
+            "source": "punch.mp3",
+            "sourceUrl": "https://freesound.org/people/johnfolker/sounds/269230/",
+            "license": "CC0-1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "changes": " Outer silence trim 0.081146\u20130.756958s; mono 48kHz; 45Hz high-pass; gain 0.3223; 1ms attack/10ms tail fade; Vorbis q6."
+          },
+          "listeningApproved": false
+        },
+        {
+          "id": "combat-actions-body-fall-v1",
+          "name": "Body Fall",
+          "type": "effect",
+          "loop": false,
+          "duration": 1.5342708333333333,
+          "tags": [
+            "combat"
+          ],
+          "file": {
+            "path": "audio/combat-actions-body-fall-v1.ogg",
+            "bytes": 22670,
+            "sha256": "32d61f14c5a1b27835af5f53c06b358ede29a11872ffbec2c09cdcf72c56795c"
+          },
+          "credits": {
+            "creator": "leonelmail",
+            "source": "body.mp3",
+            "sourceUrl": "https://freesound.org/people/leonelmail/sounds/504626/",
+            "license": "CC0-1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "changes": " Outer silence trim 0.046833\u20131.581104s; mono 48kHz; 45Hz high-pass; gain 0.6995; 1ms attack/10ms tail fade; Vorbis q6."
+          },
+          "listeningApproved": false
+        },
+        {
+          "id": "combat-actions-sword-draw-v1",
+          "name": "Sword Draw",
+          "type": "effect",
+          "loop": false,
+          "duration": 0.44729166666666664,
+          "tags": [
+            "combat"
+          ],
+          "file": {
+            "path": "audio/combat-actions-sword-draw-v1.ogg",
+            "bytes": 9908,
+            "sha256": "222706516ea9d604adcbf6aa8475e30dd3001661d2a086c4db5bc6f43c89236c"
+          },
+          "credits": {
+            "creator": "artisticdude",
+            "source": "sword-unsheathe.wav",
+            "sourceUrl": "https://opengameart.org/content/rpg-sound-pack",
+            "license": "CC0-1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "changes": " Outer silence trim 0.000000\u20130.449958s; mono 48kHz; 45Hz high-pass; gain 0.6581; 1ms attack/10ms tail fade; Vorbis q6."
+          },
+          "listeningApproved": false
+        },
+        {
+          "id": "combat-actions-armor-movement-v1",
+          "name": "Chainmail Rustle",
+          "type": "effect",
+          "loop": false,
+          "duration": 0.5384166666666667,
+          "tags": [
+            "combat"
+          ],
+          "file": {
+            "path": "audio/combat-actions-armor-movement-v1.ogg",
+            "bytes": 10652,
+            "sha256": "cec449750c9db6fd5b91416acdfc73a1787633182b000f83e8f22b72ca5824b6"
+          },
+          "credits": {
+            "creator": "artisticdude",
+            "source": "chainmail2.wav",
+            "sourceUrl": "https://opengameart.org/content/rpg-sound-pack",
+            "license": "CC0-1.0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "changes": " Outer silence trim 0.006000\u20130.547083s; mono 48kHz; 45Hz high-pass; gain 0.6432; 1ms attack/10ms tail fade; Vorbis q6."
+          },
+          "listeningApproved": false
+        }
       ],
       "beta": true
     }
