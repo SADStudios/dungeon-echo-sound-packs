@@ -1,0 +1,297 @@
+Lore & Echo beta listening packs. Listening approval pending. Individual licences below.
+
+Forest
+Forest Discovery
+{
+  "creator": "RandomMind",
+  "source": "Medieval: Exploration",
+  "license": "CC0-1.0",
+  "sourceUrl": "https://opengameart.org/content/medieval-exploration",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "changes": "Full composition retained; quiet endpoint/loop treatment, static headroom gain and Opus encoding. Complete provenance/processing supplied with v0.1.22. Curated pack source wilds-exploration-v3. "
+}
+Daytime Forest
+{
+  "creator": "Fester993",
+  "source": "Forest Ambience 1.wav — longer source cut",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source wilds-day-forest-extended-v2. ",
+  "sourceUrl": "https://freesound.org/people/Fester993/sounds/564436/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Crickets at Night
+{
+  "creator": "Nox_Sound",
+  "source": "Ambiance_Nature_Night_Cricket_Calm_Loop_Stereo.wav — longer source cut",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source wilds-night-crickets-extended-v2. ",
+  "sourceUrl": "https://freesound.org/people/Nox_Sound/sounds/637083/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Rustling Undergrowth
+{
+  "creator": "SamsCollegeAccount",
+  "source": "Rustling bush · revised",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source wilds-bush-rustle-detail-v2. One-shot selection 2.360s to 4.400s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/SamsCollegeAccount/sounds/722981/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Owl in the Distance
+{
+  "creator": "Breviceps",
+  "source": "Owl call · revised",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source wilds-owl-hoot-detail-v2. One-shot selection 0.320s to 4.120s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/Breviceps/sounds/465697/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Howling Wolf
+{
+  "creator": "NaturesTemper",
+  "source": "Wolf howl · revised",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source wilds-wolf-howl-detail-v2. One-shot selection 2.580s to 6.380s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/NaturesTemper/sounds/398430/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Footsteps through Leaves
+{
+  "creator": "SpliceSound",
+  "source": "Footsteps on leaves · revised",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source wilds-leaf-footsteps-detail-v2. One-shot selection 4.080s to 5.000s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/SpliceSound/sounds/218305/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Snapping Branch
+{
+  "creator": "northern87",
+  "source": "Branch snap · revised",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source wilds-branch-northern87-detail-v2. One-shot selection 0.000s to 1.100s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/northern87/sounds/369986/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+
+Combat
+The Ancient Legend
+{
+  "creator": "vitalezzz",
+  "source": "The Ancient Legend",
+  "license": "CC0-1.0",
+  "sourceUrl": "https://opengameart.org/content/the-ancient-legend",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "changes": "Full composition retained; quiet endpoint/loop treatment, static headroom gain and Opus encoding. Complete provenance/processing supplied with v0.1.22. Curated pack source steel-ancient-legend-v3. "
+}
+Rain and Rolling Thunder
+{
+  "creator": "sagamusix",
+  "source": "Rain and Thunder Ambience — longer source cut",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source steel-rain-thunder-extended-v2. ",
+  "sourceUrl": "https://freesound.org/people/sagamusix/sounds/700358/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Clashing Swords
+{
+  "creator": "spycrah",
+  "source": "Sword clash 1.wav — impact study",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source steel-sword-clash-impact-v2. One-shot selection 0.000s to 2.801s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/spycrah/sounds/471095/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Shield Strike
+{
+  "creator": "marchelonia",
+  "source": "heavy sword against sword or shield — impact study",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source steel-shield-impact-v2. One-shot selection 0.000s to 1.800s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/marchelonia/sounds/588278/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Loose Arrow
+{
+  "creator": "saturdaysoundguy",
+  "source": "Arrow release · revised",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source steel-arrow-release-detail-v2. One-shot selection 0.000s to 0.528s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/saturdaysoundguy/sounds/394178/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Arcane Blast
+{
+  "creator": "Vrymaa",
+  "source": "Magic - Blast or Whoosh — impact study",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source steel-magic-blast-impact-v2. One-shot selection 0.000s to 3.800s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/Vrymaa/sounds/802725/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Drawing a Sword
+{
+  "creator": "SecureSubset",
+  "source": "Sword draw · revised",
+  "license": "CC0-1.0",
+  "changes": "Revised collection: source selection, evolving design and role-specific processing. Full source/checksum/modification records supplied with v0.1.21. Curated pack source steel-sword-draw-securesubset-detail-v2. One-shot selection 0.000s to 0.997s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/SecureSubset/sounds/788532/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+
+Town Day & Night
+Market Day
+{
+  "creator": "RandomMind",
+  "source": "Medieval: Market Day",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source composition. Static gain -16.88 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Full medieval city/market composition candidate; not an existing Bard's Tale/Exploration/Old Tower Inn source. Curated pack source aud-20d1db6cc2e8402a1ec6-v1. ",
+  "sourceUrl": "https://opengameart.org/content/medieval-market-day",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Evening
+{
+  "creator": "Kevin MacLeod",
+  "source": "Evening",
+  "license": "CC-BY-4.0",
+  "changes": "Audition only. Full source composition. Static gain -11.6 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Guitar/cello/oboe and relaxed mood match the second city brief; scene fit and speech interference need listening. Curated pack source aud-2e020585a73e7dbe7552-v1. ",
+  "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN2300002",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+}
+Market Square
+{
+  "creator": "Metzik",
+  "source": "Medieval market",
+  "license": "CC-BY-4.0",
+  "changes": "Audition only. First 45s of source reel; not a final take or complete ambience loop. Static gain 2.13 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Longer medieval market field recording, distinct from the previous 9.6s snippet. Intelligible dialogue, any background performance rights and suitability must be checked by listening before production. Curated pack source aud-e5309eb43dc03495338e-v1. ",
+  "sourceUrl": "https://freesound.org/people/Metzik/sounds/371222/",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+}
+Blacksmith Workshop
+{
+  "creator": "LarsErikErtzgaardRingen",
+  "source": "Blacksmith.wav",
+  "license": "CC0-1.0",
+  "changes": "Audition only. First 24s of source reel; not a final take or complete ambience loop. Static gain -15.26 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Blacksmith source reel includes bellows/anvil. Select a clean hammering take after listening; no final cut claimed. Curated pack source aud-b1ffe3ad6cab2a8be2e3-v1. ",
+  "sourceUrl": "https://freesound.org/people/LarsErikErtzgaardRingen/sounds/609757/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Merchant Greeting
+{
+  "creator": "theuncertainman",
+  "source": "What can I do for you? (NPC, British Male)",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source/reel. Static gain -3.48 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. PROPOSED DIALOGUE SUBSTITUTION: 'What can I do for you?' NPC British male greeting rather than a projected wares call. Source is the actual performer upload, CC0; no fabricated release. Curated pack source aud-708742e8c6032233088b-v1. One-shot selection 0.000s to 1.579s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/theuncertainman/sounds/458074/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Passing Cart
+{
+  "creator": "Sonicquinn",
+  "source": "Foley_Elements_Wood_Small-Wooden-Wheeled-Cart-Rolling-On-Wooden-Surface_Mono_192000.wav",
+  "license": "CC0-1.0",
+  "changes": "Audition only. First 24s of source reel; not a final take or complete ambience loop. Static gain 16.59 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Wooden-wheeled cart on wood. PROPOSED material change: timber causeway/cart pass rather than cobblestone; no pitch-based variation. Curated pack source aud-9839ced148dfc4f053b1-v1. One-shot selection 20.800s to 24.000s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/Sonicquinn/sounds/518790/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Wooden Shutters
+{
+  "creator": "ross_sinc",
+  "source": "Pivoting Shutters Opening and Closing .wav",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source/reel. Static gain -0.52 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Wooden pivoting shutter source reel; select an opening take, compare with existing Wooden Door. Curated pack source aud-377bcf49a26937999f82-v1. One-shot selection 11.760s to 15.560s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/ross_sinc/sounds/444799/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Street Sweeping
+{
+  "creator": "jaziel_.arroyo",
+  "source": "Sweeping the leaves of the street with a big broom",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source/reel. Static gain 0.4 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. PROPOSED MATERIAL/SETTING SUBSTITUTION: sweeping leaves on a street; cobblestones not established. Do not mistake foliage for the new action. Curated pack source aud-53fc597a96f6ffb58e59-v1. One-shot selection 5.520s to 7.696s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/jaziel_.arroyo/sounds/850592/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Town Handbell
+{
+  "creator": "Fenodyrie",
+  "source": "Handbell1",
+  "license": "CC0-1.0",
+  "changes": "Audition only. First 24s of source reel; not a final take or complete ambience loop. Static gain -11.0 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Handbell attention candidate; compare with the existing ship bell and sacred bell/chime before acceptance. Curated pack source aud-82d6672007e760805e4d-v1. One-shot selection 1.060s to 4.860s; 4ms attack and 120ms maximum tail fade.",
+  "sourceUrl": "https://freesound.org/people/Fenodyrie/sounds/830248/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+
+Desert
+Desert Journey
+{
+  "creator": "Karate Studios",
+  "source": "Desert Overworld",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source composition. Static gain -10.41 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Full source composition. Plucked strings, flute and light percussion are not established by source metadata; brief fit unverified. Curated pack source aud-8e0dd036170689295fec-v1. ",
+  "sourceUrl": "https://opengameart.org/content/desert-overworld",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Desert City
+{
+  "creator": "Kevin MacLeod",
+  "source": "Desert City",
+  "license": "CC-BY-4.0",
+  "changes": "Audition only. Full source composition. Static gain -12.54 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Acoustic dulcimer/percussion, relaxed/mysterious source metadata. Confirm nocturnal spaciousness and full development; no padding. Curated pack source aud-1eacbae11657953703d0-v1. ",
+  "sourceUrl": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100564",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+}
+Desert Wind
+{
+  "creator": "KasDonatov",
+  "source": "Desert wind stereo",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source/reel. Static gain -7.08 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Desert stereo wind candidate. Shifting grains and absence of modern contamination require listening; no tent-fabric substitution. Curated pack source aud-2e19762b1234dc521b4f-v1. High-pass 85Hz, low-pass 8.5kHz, broad -3dB at 3.2kHz.",
+  "sourceUrl": "https://freesound.org/people/KasDonatov/sounds/402710/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Camel Call
+{
+  "creator": "Pól",
+  "source": "S035_Camels_Mono.wav",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source/reel. Static gain 0.99 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Camel groans/moans; audition for identifiable single call and noise. Curated pack source aud-b38c92f69c53cf7c064b-v1. One-shot selection 1.360s to 5.160s; 4ms attack and 120ms maximum tail fade. High-pass 85Hz, low-pass 8.5kHz, broad -3dB at 3.2kHz.",
+  "sourceUrl": "https://freesound.org/people/P%C3%B3l/sounds/385912/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Footsteps on Sand
+{
+  "creator": "BrendanSound12",
+  "source": "Footsteps on Sand.wav",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source/reel. Static gain 5.55 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Material-specific new footsteps, loose sand. Confirm texture and separate from existing leaves/floorboards/heavy steps. Curated pack source aud-907fec051b1491e4e65a-v1. One-shot selection 2.320s to 6.120s; 4ms attack and 120ms maximum tail fade. High-pass 85Hz, low-pass 8.5kHz, broad -3dB at 3.2kHz.",
+  "sourceUrl": "https://freesound.org/people/BrendanSound12/sounds/445155/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Canvas Movement
+{
+  "creator": "kevinkace",
+  "source": "Canvas Tent 1.wav",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source/reel. Static gain 9.79 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. Canvas tent source; opening gesture must be confirmed by listening. Curated pack source aud-45885d85fdd839eb7544-v1. One-shot selection 0.000s to 1.339s; 4ms attack and 120ms maximum tail fade. High-pass 85Hz, low-pass 8.5kHz, broad -3dB at 3.2kHz.",
+  "sourceUrl": "https://freesound.org/people/kevinkace/sounds/66773/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Harness Bells
+{
+  "creator": "JoshuaPomeroy",
+  "source": "Sleigh Bell Long 02.wav",
+  "license": "CC0-1.0",
+  "changes": "Audition only. Full source/reel. Static gain -10.78 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. PROPOSED EQUIPMENT SUBSTITUTION: close small sleigh bells rather than a recorded caravan harness. No claim of actual harness/animal movement. Curated pack source aud-ffcd93aa4b6ca6d42c8e-v1. One-shot selection 0.000s to 0.863s; 4ms attack and 120ms maximum tail fade. High-pass 85Hz, low-pass 8.5kHz, broad -3dB at 3.2kHz.",
+  "sourceUrl": "https://freesound.org/people/JoshuaPomeroy/sounds/541353/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
+Pouring Sand
+{
+  "creator": "nicoproson",
+  "source": "SAND POUR.wav",
+  "license": "CC0-1.0",
+  "changes": "Audition only. First 24s of source reel; not a final take or complete ambience loop. Static gain 7.09 dB; Ogg Opus 128 kbps VBR, 48 kHz stereo. No pitch/speed/EQ changes. Loop and final take not prepared. PROPOSED ACTION SUBSTITUTION: sand poured onto a sand pile, not into a vessel. Do not also reuse as dune slide. Curated pack source aud-5cce9c725aae5d2398e1-v1. One-shot selection 11.740s to 15.540s; 4ms attack and 120ms maximum tail fade. High-pass 85Hz, low-pass 8.5kHz, broad -3dB at 3.2kHz.",
+  "sourceUrl": "https://freesound.org/people/nicoproson/sounds/627070/",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
